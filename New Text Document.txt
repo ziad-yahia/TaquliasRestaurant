@@ -1,0 +1,6 @@
+dependancy injection
+one-to-one relation
+many-to-many relation
+many-to-one relation
+shopping cart
+user identity
